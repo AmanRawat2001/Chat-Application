@@ -21,7 +21,7 @@ Technology Stack
 
 -   **Laravel**: Backend framework to handle API requests, routing, authentication, and database management.
 -   **Vue.js**: Frontend JavaScript framework used for building the user interface.
--   **Travel Reverb**: Laravel package used for broadcasting events and enabling real-time communication.
+-   **Laravel Reverb**: Laravel package used for broadcasting events and enabling real-time communication.
 -   **SQLite**: Lightweight, file-based database for storing user and message data.
 
 Core Components
